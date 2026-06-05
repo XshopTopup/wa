@@ -1,8 +1,9 @@
 {
-  "rewrites": [
+  "redirects": [
     {
       "source": "/(.*)",
-      "destination": "/app.js"
+      "destination": "https://wa.me/6285380779466",
+      "permanent": true
     }
   ]
 }
